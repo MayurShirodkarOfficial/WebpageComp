@@ -1,2 +1,3 @@
 # WebpageComp
-webpage competition for SRIEIT
+webpage competition
+page of food services
